@@ -53,7 +53,7 @@ del {
 text-decoration:line-through
 }
 .intro-header{
-background:#fff url(http://sundayamizo.in/images/superman.png) fixed top center;
+background:#fff url(https://raw.githubusercontent.com/sundayamizo/stylesheets/master/superman.png) fixed top center;
 font-family: 'Crete Round', serif;
 }
 div.desc{
